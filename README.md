@@ -19,6 +19,6 @@ Deployed the lamda function on AWS and built a RESTful API for the the calculato
 	- Add operation: https://tfepd2yxg0.execute-api.us-east-1.amazonaws.com/test/calculator?op1=60&op2=256&opnd=+
 
 ##### Challenges: 
-The Add operation works when testing the gateway but does not recognize the operand using the URL! Please see screenshot attached. 
+The Add operation works when testing the gateway but does not recognize the operand using the URL! Please see [screenshot](./AddRESTCalc.png) attached. 
 	
 
