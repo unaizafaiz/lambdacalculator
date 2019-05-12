@@ -2,8 +2,8 @@ package com.lambda.aws
 
 /**
   * Class to parse JSON string for calculator
-  * @param argument1
-  * @param argument2
-  * @param operation
+  * @param op1 operator1
+  * @param op2 operator2
+  * @param opnd operand
   */
-case class CalcArguments (argument1: String, argument2: String, operation: String){}
+case class CalcArguments (op1: String, op2: String, opnd: String){}

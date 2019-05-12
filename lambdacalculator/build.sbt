@@ -11,7 +11,8 @@ libraryDependencies ++= Seq(
    "com.amazonaws" % "aws-lambda-java-core" % "1.0.0",
    "com.amazonaws" % "aws-lambda-java-events" % "1.0.0",
   "com.fasterxml.jackson.core" % "jackson-databind" % "2.9.8",
-  "com.fasterxml.jackson.module" %% "jackson-module-scala" % "2.9.8"
+  "com.fasterxml.jackson.module" %% "jackson-module-scala" % "2.9.8",
+  "junit" % "junit" % "4.12" % Test
 )
 
 assemblyMergeStrategy in assembly := {
