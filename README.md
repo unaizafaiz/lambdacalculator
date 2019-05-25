@@ -1,4 +1,4 @@
-# Homework 6
+# Lambda Calculator
 #### By Unaiza Faiz(651052450)
 ### Description: 
 Created a calculator lambda function that adds, subtracts, multiplies and divides two operators.
